@@ -1,0 +1,15 @@
+.container {
+  text-align: center;
+}
+
+.class_btn {
+  background-color: #555555;
+  border: 2px solid gray;
+  color: white;
+  font-size: 12px;
+  padding: 10px 24px;
+  margin-right: 10px;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 50%;
+}
